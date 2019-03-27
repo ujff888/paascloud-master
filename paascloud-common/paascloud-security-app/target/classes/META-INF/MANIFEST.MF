@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: paascloud-security-app
+Implementation-Version: 1.0
+Built-By: tan
+Implementation-Vendor-Id: com.liuzm.paascloud.common
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/paascloud-ma
+ ster/paascloud-common/paascloud-security-app/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
